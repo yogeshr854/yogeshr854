@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/FIlAXMHf8vsAAAAd/naruto-background.gif">
+  <img src="https://giffiles.alphacoders.com/215/215985.gif">
 </div>
 
 <h1 align="center">Hi 👋, I'm Yogesh</h1>
