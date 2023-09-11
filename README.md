@@ -1,16 +1,17 @@
 <div align="center">
-  <img src="https://www.pwc.com/content/dam/pwc/mt/en/services/cyber-security/cyber-attack-.gif" alt="Masterhead Banner">
+  <img src="https://i.gifer.com/75lf.gif">
 </div>
+
 <h1 align="center">Hi 👋, I'm Yogesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshr854&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshr854" /> </p>
+<img align="right" alt = "Doom's Day" width="400" src = "https://www.pwc.com/content/dam/pwc/mt/en/services/cyber-security/cyber-attack-.gif">
 
 <p align="left"> <a href="https://twitter.com/yogeshr854" target="blank"><img src="https://img.shields.io/twitter/follow/yogeshr854?logo=twitter&style=for-the-badge" alt="yogeshr854" /></a> </p>
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning *ML*
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about *Frontend*
 
 - 📫 How to reach me **yogeshrajput8may04@gmail.com**
 
