@@ -1,4 +1,6 @@
-![Banner Image](https://i.gifer.com/75lf.mp4)
+<div align="center">
+  <img src="https://www.pwc.com/content/dam/pwc/mt/en/services/cyber-security/cyber-attack-.gif" alt="Masterhead Banner">
+</div>
 <h1 align="center">Hi 👋, I'm Yogesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
