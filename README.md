@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://i.gifer.com/75lf.gif">
+  <img src="https://media.tenor.com/FIlAXMHf8vsAAAAd/naruto-background.gif">
 </div>
 
 <h1 align="center">Hi 👋, I'm Yogesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt = "Doom's Day" width="400" src = "https://www.pwc.com/content/dam/pwc/mt/en/services/cyber-security/cyber-attack-.gif">
+<img align="right" alt = "Doom's Day" width="400" src = "https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <a href="https://twitter.com/yogeshr854" target="blank"><img src="https://img.shields.io/twitter/follow/yogeshr854?logo=twitter&style=for-the-badge" alt="yogeshr854" /></a> </p>
 
-- 🌱 I’m currently learning *ML*
+- 🌱 I’m currently learning **ML**
 
-- 💬 Ask me about *Frontend*
+- 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **yogeshrajput8may04@gmail.com**
 
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeshr854&show_icons=true&locale=en" alt="yogeshr854" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshr854&" alt="yogeshr854" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav23v&" alt="yogeshr854" /></p>
