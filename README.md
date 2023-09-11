@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Yogesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt = "Doom's Day" width="400" src = "https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
+<img align="right" alt = "Doom's Day" width="400" src = "https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <a href="https://twitter.com/yogeshr854" target="blank"><img src="https://img.shields.io/twitter/follow/yogeshr854?logo=twitter&style=for-the-badge" alt="yogeshr854" /></a> </p>
 
